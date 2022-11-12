@@ -54,24 +54,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201121968769'] //ur owner number
-global.ownername = "𝐾𝐻𝐻𝐹𝑈" //ur owner name
-global.ytname = "YT: khufu" //ur yt chanel name
+global.vcardowner = ['201556525349'] //ur owner number
+global.ownername = "MOHAMEDHASSAN" //ur owner name
+global.ytname = "http://mohamed0hass3.sarhne.com" //ur yt chanel name
 global.socialm = "o" //ur github or insta name
 global.location = "Egypt" //ur location
 
 //bot bomdy 
-global.owner = ['201121968769']
-global.ownertag = '201121968769' //ur tag number
+global.owner = ['201556525349']
+global.ownertag = '201556525349' //ur tag number
 
-global.botname = 'ᴹᴿ᭄ Bot Whatsapp ×፝֟͜×' //ur bot name
+global.botname = 'ᴹᴿ᭄ Bot mohamed Whatsapp ×፝֟͜×' //ur bot name
 global.linkz = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //ur website to be displayed
-global.botscript = 'https://youtube.com/channel/UCB3Z3phhszGj8FBdaJmIdJQ' //script link
+global.websitex = "http://mohamed0hass3.sarhne.com" //ur website to be displayed
+global.botscript = 'http://mohamed0hass3.sarhne.com' //script link
 global.reactmoji = "💗" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "01121968769" //ur sticker watermark packname
-global.author = "خوفو ص المزعجين ☺️ " //ur sticker watermark author
+global.packname = "01556525349" //ur sticker watermark packname
+global.author = "محمد تبع ابطال تانيه ثانوي ☺️ " //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -80,7 +80,7 @@ global.err4r = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur error pi
 global.thumb = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['201121968769'] //ur premium numbers
+global.premium = ['201556525349'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
